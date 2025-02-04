@@ -1,0 +1,19 @@
+.one{
+   background-color: lightpink; 
+   font-style: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.change-font-size{
+    font-size: 24px;
+}
+
+#two{
+    color: blue;
+    font-size: 36px;
+}
+
+#three{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 700;
+}
